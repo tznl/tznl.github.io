@@ -1,7 +1,8 @@
 body {
 	background-color: #000000;
-	background-image: url(images/mahounekos/background.png);
+	background-image: url(images/satorishade.jpg);
 	background-repeat: no-repeat;
+	background-size: cover;
 	color: #FFFFFF;
 	font-family: arial;
 	width: auto;
@@ -18,7 +19,7 @@ body {
         margin-right: auto;
 }
 
-table {
+.top_table {
 	border-spacing: 1em;
 }
 
