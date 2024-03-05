@@ -1,0 +1,38 @@
+body {
+	background-color: #000000;
+	color: #000000;
+	font-family: arial;
+	width: auto;
+}
+
+.center_img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center_text {
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.top_table {
+	border-spacing: 1em;
+}
+
+a {
+  color:#F00;
+  transition: all 0.2s ease-in;
+}
+
+h1 {
+  color:#F00;
+}
+
+h6 {
+  color:#F00;
+}
+
+p {
+  color:#F00;
+}
